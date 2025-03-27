@@ -1,2 +1,3 @@
 # chiikawa-pic
 
+for fun
